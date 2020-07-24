@@ -5,7 +5,7 @@ A simple weather app built with React framework.
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/KhaderBallout/Weather.git
+$ git clone https://github.com/JannatN/WeatherApp-react.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
